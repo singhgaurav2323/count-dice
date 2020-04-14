@@ -8,3 +8,6 @@
                         </ul>
 
                         <h3>* can change target score in Final Score </h3>
+
+
+<h3>Enjoy the game <a href="https://singhgaurav2323.github.io/count-dice/">Follow --></a></h3>
