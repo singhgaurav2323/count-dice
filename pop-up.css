@@ -1,0 +1,65 @@
+.overlay {
+    background: linear-gradient(to bottom right, rgb(173, 207, 172), rgb(78, 136, 53));
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity:0.1;
+    z-index: 9999999;
+
+}
+.overlay:target {
+    visibility: inherit ;
+    opacity: 5;
+}
+
+.popup {
+    position: absolute;
+
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%) ;
+
+    font-size: 20px;
+    font-family: 'Lato';
+    text-align: center;
+    padding: 10px ;
+    width: 70%;
+    text-decoration: none;
+}
+
+h2{margin-bottom: 15px;}
+
+li {
+    margin-bottom: 6px;
+    font-weight: 200px;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+ 
+  
+  
+.close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 1s;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+  
+
+@media screen and (max-width: 700px){
+.box{
+    width: 70%;
+}
+.popup{
+    width: 70%;
+}
+}
