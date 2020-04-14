@@ -6,8 +6,7 @@
                             <li>The player can choose to 'Hold', which means that his Round score gets added to his Global score.</li>
                             <li>The first player to reach targetted GLOBAL score or can change the score to wins the game.</li>
                         </ul>
+<h3>can change target score in Final Score </h3>
 
-                        <h3>* can change target score in Final Score </h3>
 
-
-<h3>Enjoy the game <a href="https://singhgaurav2323.github.io/count-dice/">Follow --></a></h3>
+<h2>Enjoy the game <a href="https://singhgaurav2323.github.io/count-dice/">Follow --></a></h3>
